@@ -63,15 +63,7 @@ nav ul li a{
   color: #000000;
 }
 
-.active::after{
-  content: '';
-  width: 50px;
-  height: 2px;
-  background-color: #ff0000;
-  position: absolute;
-  bottom: 564px;
-  left: 503px;
-}
+
 
 header{
   padding: 25px 70px;
